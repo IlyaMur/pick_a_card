@@ -1,1 +1,1 @@
-just simple example of card game written on ruby
+just simple example of a card game written on ruby
